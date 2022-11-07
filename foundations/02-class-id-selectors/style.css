@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(240, 72, 72);
+    font-family: Verdana, "Dejavu Sans", sans-serif;    
+}
+.fs24 {
+    font-size: 24px;
+}
+#clrazul {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#mudatudo {
+    background-color: rgb(0, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
